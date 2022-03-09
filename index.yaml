@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  application-one:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-09T11:12:49.2155134+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 17a2923f12213e3e40fefbe9dc06373767da7d47e4b7e3dfda523d4e82f00bef
+    name: application-one
+    type: application
+    urls:
+    - https://fetidbell.github.io/charts/releases/application-one-0.1.0.tgz
+    version: 0.1.0
+  application-two:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-09T11:12:49.2160271+03:00"
+    description: A Helm chart for Kubernetes
+    digest: cbb1f0cf3a4d0818cac1e639266969cd75ec9ac764b5ac9f7b05612784819a4d
+    name: application-two
+    type: application
+    urls:
+    - https://fetidbell.github.io/charts/releases/application-two-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-09T11:12:49.2150033+03:00"
